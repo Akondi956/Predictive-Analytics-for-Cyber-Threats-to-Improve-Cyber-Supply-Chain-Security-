@@ -1,0 +1,20 @@
+
+
+
+1.import libraies
+2.run django file-local host
+3.user registration 
+4.user login
+5.upload data
+6.vulnerability
+7.unalware data
+8.threat traceability
+9.cybr threat analysis
+
+
+admin
+admin login
+user detail analysis
+admin analysis
+threat traceability graphical
+logout
